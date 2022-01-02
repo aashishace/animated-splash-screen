@@ -5,9 +5,7 @@ This small project shows how you can add animation into your android projects or
 
 ## Previews
 
-![Splash Screen](https://github.com/aashish-ace/animated-splash-screen/blob/master/demo/LoginScreen.gif)
-
-![Login Screen](https://github.com/aashish-ace/animated-splash-screen/blob/master/demo/SplashScreen.gif)
+![Splash Screen](https://github.com/aashish-ace/animated-splash-screen/blob/master/demo/LoginScreen.gif) ![Login Screen](https://github.com/aashish-ace/animated-splash-screen/blob/master/demo/SplashScreen.gif)
 
 ## Gradle dependency
 
